@@ -1,0 +1,58 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+</style>
+
+.wow {
+  width: 100%;
+}
+
+h1 {
+  font-size: 1.25rem;
+}
+
+.rps {
+  width: 30%;
+  height: auto;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to top left, #946FE8, #6FCBE8);
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  flex-direction: column;
+}
+.about {
+  margin: 2rem;
+  font-weight: 400;
+  font-size: 1rem;
+  
+}
+
+.selection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+}
+
+.selection button {
+  
+}
+
+.computerSelection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 2rem;
+}
+
+.rock {
+  width: 25%;
+  height: auto;
+}
